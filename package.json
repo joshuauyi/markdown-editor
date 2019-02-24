@@ -1,0 +1,30 @@
+{
+  "name": "mardown-editor",
+  "version": "1.0.0",
+  "description": "This app let's you view the raw markdown on the left side and the converted markdown (to HTML) on the right side",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josh-wer/mardown-editor.git"
+  },
+  "keywords": [
+    "markdown",
+    "node",
+    "HTML"
+  ],
+  "author": "Joshua Uyi <joshuaouyi@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/josh-wer/mardown-editor/issues"
+  },
+  "homepage": "https://github.com/josh-wer/mardown-editor#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "redis": "^2.8.0",
+    "share": "^0.6.3"
+  }
+}

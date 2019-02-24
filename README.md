@@ -1,2 +1,2 @@
-# mardown-editor
+# markdown-editor
 Markdown is a popular text format written in an easy-to-read way and is convertible to HTML. It is a markup format that has been popularized by sites such as Github and Stack Overflow. This app let's you view the raw markdown on the left side and the converted markdown (to HTML) on the right side. It also allows multiple people to work on the same markdown document at the same time via a shareable URL and all changes will be saved.
